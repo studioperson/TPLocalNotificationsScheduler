@@ -1,6 +1,5 @@
 //
 //  TPLocalNotificationsScheduler.m
-//  greenline_POC
 //
 //  Created by Tony Person on 4/16/14.
 //  Copyright 2014 Tony Person. All rights reserved.
